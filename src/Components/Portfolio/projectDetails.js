@@ -23,7 +23,7 @@ export const projectDetails = [
     id: "3",
     title: "Portfolio",
     description:
-      "EventSage is your go-to platform for organizing events and selling tickets. Easily create events, manage registrations, and handle payments securely—all in one place.",
+      "Explore my background, latest projects, skills in development, and connect with me for collaborations.",
     image:'./project_images/prothree.png',
     tags: ["React.js"],
     github: "https://github.com/dgarg6333/portfolio",
