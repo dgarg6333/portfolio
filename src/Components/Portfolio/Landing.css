@@ -530,25 +530,27 @@ hr {
     justify-content: center; /* Center the form horizontally */
     align-items: center; /* Center the form vertically */
     min-height: 100vh; /* Ensure the parent takes the full viewport height */
+    padding-top: 60px; /* Add padding to the top */
   }
   
   @media (max-width: 980px) {
     .contact-form {
-      margin-top: 20px; /* Adjust margin top for smaller screens */
+      margin-top: 100px; /* Adjust margin top for smaller screens */
     }
   }
   
   @media (max-width: 680px) {
     .contact-form {
-      margin-top: 20px; /* Adjust margin top for smaller screens */
+      margin-top: 100px; /* Adjust margin top for smaller screens */
     }
   }
   
   @media (max-width: 500px) {
     .contact-form {
-      margin-top: 20px; /* Adjust margin top for smaller screens */
+      margin-top: 100px; /* Adjust margin top for smaller screens */
     }
   }
+  
   
 
 
