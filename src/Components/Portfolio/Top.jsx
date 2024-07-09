@@ -25,7 +25,7 @@ function Top() {
         I'm <span className="name">Deepanshu Garg</span>
       </h1>
       <p className="pie typed2">
-        a <span className="pro">pro</span>grammer
+        a programmer
       </p>
       <Link
         to="https://drive.google.com/file/d/1o6FXDKEZ7quXx12Ob-PPfJlxlWQOhrqR/view?usp=drivesdk"
