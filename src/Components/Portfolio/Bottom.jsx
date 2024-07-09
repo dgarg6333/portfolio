@@ -26,6 +26,15 @@ export default function Bottom() {
       </a>
       <a
         className="footer-link"
+        href="https://www.instagram.com/deepanshugarg_20/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <i class="fab fa-instagram icon"></i>
+        Instagram
+      </a>
+      <a
+        className="footer-link"
         href="mailto:dgarg6333.com"
         target="_blank"
         rel="noopener noreferrer"
@@ -35,7 +44,7 @@ export default function Bottom() {
       </a>
       <a
         className="footer-link"
-        href=""
+        href="https://portfolio-alpha-red-72.vercel.app/"
       >
         <i class="fa-solid fa-laptop icon"></i>
         Website

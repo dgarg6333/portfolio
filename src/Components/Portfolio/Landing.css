@@ -685,3 +685,39 @@ textarea {
 .icon {
     padding: 3px;
 }
+
+.project_btn {
+  display: flex;
+  justify-content: space-between; /* Adjust as needed */
+}
+
+.btn-container {
+  display: flex;
+}
+
+.btn_project {
+  background: #337FED;
+  border-radius: 7px;
+  color: #FFFFFF;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  padding: 12px;
+  margin-right: 14px; /* Adjust spacing between buttons */
+  transition: background-color 0.3s, border-radius 0.3s;
+}
+
+.btn_project:hover {
+  background: #11CDD4;
+  border-radius: 11px;
+  text-decoration: none;
+}
+
+.btn_project:last-child {
+  margin-right: 16px; /* Remove margin from last button */
+}
+  
