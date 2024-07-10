@@ -280,23 +280,22 @@ hr {
     color: white;
     width: 60%;
     text-align: justify;
-    margin-left: 50px;
-    margin-top: 16px;
+    margin: 20px; /* adjusted margin value */
 }
 
 @media (max-width: 850px) {
-    .intro {
+   .intro {
         font-size: medium;
         width: 80%;
-        margin-left: 20px;
+        margin: 20px; /* adjusted margin value */
     }
 }
 
 @media (max-width: 500px) {
-    .intro {
+   .intro {
         font-size: small;
         width: 100%;
-        margin-left: 20px;
+        margin: 20px; /* adjusted margin value */
     }
 }
 
@@ -317,7 +316,7 @@ hr {
 .rightContainer {
     display: flex;
     align-items: center;
-    gap: 12px;
+    gap: 20px; /* adjusted gap value */
 }
 
 .profile-pic {
@@ -325,12 +324,14 @@ hr {
     height: 240px;
     border-radius: 50%;
     object-fit: cover;
+    margin: 10px; /* added margin value */
 }
 
 @media (max-width: 500px) {
-    .profile-pic {
+   .profile-pic {
         width: 200px;
         height: 200px;
+        margin: 10px; /* adjusted margin value */
     }
 }
 
