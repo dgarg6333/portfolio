@@ -8,7 +8,7 @@ export default function About() {
       <div className="innerContainer">
         <div className="leftContainer">
           <p className="intro">
-          Hey, I'm Deepanshu Garg, a pre-final year Electrical Engineering student at NIT Jamshedpur. I'm a Competitive Programmer, Full Stack Web Developer, and active open source contributor. I seek software development opportunities to apply my skills and learn new technologies.
+          Hey, I'm Deepanshu Garg, a final year Electrical Engineering student at NIT Jamshedpur. I'm a Competitive Programmer, Full Stack Web Developer, and active open source contributor. I seek software development opportunities to apply my skills and learn new technologies.
           💻✨🚀
           </p>
         </div>
